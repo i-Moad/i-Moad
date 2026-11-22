@@ -62,8 +62,8 @@
 ## 04 / GITHUB ANALYTICS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=i-Moad&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Moad&layout=compact&hide_border=true&theme=github_dark" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=i-Moad&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" />
 </p>
 
 <p align="center">
